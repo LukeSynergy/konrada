@@ -1,8 +1,11 @@
 {% extends "::base.html.twig" %}
+{% trans_default_domain 'formularz' %} 
+{# formularz to nazwa pliku w translations bez pl/en.yml #}
 
 {% block title %}AppBundle:Formularz:show / Kontakt{% endblock %}
 
-{% block body %}
+{% block content %}
+<h1> {{ 'formularz.contact'|trans }}</h1>
 {{ form_start(form) }}
 {{ form_widget(form) }}
 {{ form_end(form) }}

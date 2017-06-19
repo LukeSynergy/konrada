@@ -1,6 +1,6 @@
 togetee:
     offer:
         messenger:
-            header: 'Oferta'
+            header: 'Oferta %project_name%'
             button: 'Wyślij'
             placeholder: 'Twoja wiadomość'

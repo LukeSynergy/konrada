@@ -1,2 +1,8 @@
 formularz:
-  name: 'imię'
+  name: 'Imię'
+  surname: 'Nazwisko'
+  email: 'E-mail'
+  text: 'Tekst'
+  send: 'Wyślij'
+  contact: 'Kontakt'
+  
