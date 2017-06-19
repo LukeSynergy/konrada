@@ -1,0 +1,16 @@
+togetee:
+    project:
+        mail:
+            welcome: 'Witaj'
+            remind:
+                heading: 'Przypomnienie'
+                content: 'wystawiłeś w serwisie Togetee.com swój projekt. Czy jesteś zadowolony z otrzymanych ofert od architektów? Jeśli nie, to możesz już wybrać ręcznie z listy architektów do których chcesz aby nasz system wysłał powiadomienie o Twoim projekcie. To nic nie kosztuje!'
+                button:
+                    satisfied: 'Znalazłem architekta'
+                    search: 'Szukam dalej...'
+            offer:
+                new:
+                    subject: 'Nowa oferta do projektu %project_name%'
+                    heading: 'Nowa oferta'
+                    content: 'Otrzymałeś nową ofertę'
+                    button: 'Pokaż projekt'

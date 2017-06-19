@@ -1,0 +1,6 @@
+togetee:
+    offer:
+        messenger:
+            header: 'Oferta'
+            button: 'Wyślij'
+            placeholder: 'Twoja wiadomość'
